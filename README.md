@@ -4,7 +4,7 @@ This is a minimalist, beautiful, responsive blogging program written in Astro.
 
 ## Preview
 
-[https://astro-blog.qum.cc/](https://blog.steveee.me/)
+[https://blog.steveee.me/](https://blog.steveee.me/)
 
 ### Home
 
