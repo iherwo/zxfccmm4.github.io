@@ -8,7 +8,7 @@ cover:
     url: 'https://steveee.top/usr/uploads/2022/03/1017064284.png'
     square: 'https://steveee.top/usr/uploads/2022/03/1017064284.png'
     alt: 'cover'
-tags: ["APP", "Apple TV", "软件分析"] 
+tags: ["技术心得", "Apple TV", "软件分析"] 
 theme: 'light'
 featured: true
 ---
