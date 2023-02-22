@@ -71,6 +71,5 @@ https://qoli.notion.site/efa6a396e3854a2592a88f787b9c4a19?v=7459f2c4a7ed4fcdb3ba
 
 ![播放器](https://steveee.top/usr/uploads/2022/03/1139258460.png)
 
-## 加入测试
-### Join the SyncNext beta 
+## Join the SyncNext beta 
  https://testflight.apple.com/join/HjYGC4aZ
