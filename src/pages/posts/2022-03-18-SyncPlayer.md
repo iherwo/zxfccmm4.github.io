@@ -3,7 +3,7 @@ layout: '../../layouts/MarkdownPost.astro'
 title: 'SyncPlayer又一款Apple TV上观影神器'
 pubDate: 2022/03/18
 description: 'SyncPlayer又一款Apple TV上观影神器'
-author: 'Apple TV App'
+author: 'Steve'
 cover:
     url: 'https://steveee.top/usr/uploads/2022/03/1017064284.png'
     square: 'https://steveee.top/usr/uploads/2022/03/1017064284.png'
@@ -12,7 +12,6 @@ tags: ["APP", "Apple TV", "软件分析"]
 theme: 'light'
 featured: true
 ---
-
 
 ## App 介紹
 
@@ -72,10 +71,6 @@ SyncPlayer 的数据来自第三方网站，数据状态不见得在公司企业
 
 ![播放器](https://steveee.top/usr/uploads/2022/03/1139258460.png)
 
-## 演示视频
-
-<iframe class="iframe_video" src="https://player.bilibili.com/player.html?aid=637271904&bvid=BV1tb4y1s7RV&cid=552380543&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
 ## 加入测试
-
-[button color="success" icon="" url="https://testflight.apple.com/join/HjYGC4aZ" type="round"]Join the SyncNext beta[/button]
+### Join the SyncNext beta 
+ https://testflight.apple.com/join/HjYGC4aZ
