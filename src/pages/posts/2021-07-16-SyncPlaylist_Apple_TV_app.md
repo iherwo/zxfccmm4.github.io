@@ -3,7 +3,7 @@ layout: '../../layouts/MarkdownPost.astro'
 title: 'SyncPlaylist Apple TV app又一款能收看国内视频的APP'
 pubDate: 2021/07/16
 description: '呈现出类拔萃的音质、增强的 Siri 功能以及安全放心的智能家居体验'
-author: 'Apple Newsroom'
+author: 'Steve'
 cover:
     url: 'https://cdn.jsdelivr.net/gh/zxfccmm/image@master/20210714/3.2ir5ektfyty0.png'
     square: 'https://cdn.jsdelivr.net/gh/zxfccmm/image@master/20210714/3.2ir5ektfyty0.png'
