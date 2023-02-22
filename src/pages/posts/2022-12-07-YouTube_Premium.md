@@ -9,7 +9,7 @@ cover:
     square: 'https://cdn.jsdelivr.net/gh/zxfccmm/image@master/20210714/1.7348utkpo3k0.png'
     alt: 'cover'
 tags: ["Steve 分享", "Youtube Premium"] 
-theme: 'light'
+theme: 'dark'
 featured: true
 ---
 
