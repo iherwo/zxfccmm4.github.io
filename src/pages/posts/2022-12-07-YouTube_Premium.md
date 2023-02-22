@@ -1,44 +1,18 @@
 ---
-layout: post
-cid: 5
-title: YouTube Premium 印度区开通指南
-slug: 5
-date: 2022/12/07 17:05:00
-updated: 2022/12/07 17:05:34
-status: publish
-author: Steve
-categories: 
-  - 流媒体
-tags: 
-article_type: 0
-books_author: 
-books_excerpt: 
-books_reading: 
-books_time: 
-catalog: 1
-Cross_imgNumCCC: 1
-customSummary: 
-mathjax: auto
-movies_author: 
-movies_excerpt: 
-movies_score: 
-movies_time: 
-noThumbInfoEmoji: 
-noThumbInfoStyle: default
-outdatedNotice: no
-Overdue: close
-parseWay: auto
-photos_excerpt: 
-photos_name: 
-reprint: standard
-thumb: https://cdn.jsdelivr.net/gh/zxfccmm/image@master/20210714/1.7348utkpo3k0.png
-thumbChoice: default
-thumbDesc: 
-thumbSmall: 
-thumbStyle: default
-video: 
-wymusic: 
+layout: '../../layouts/MarkdownPost.astro'
+title: 'YouTube Premium 土耳其区开通指南'
+pubDate: 2023-02-22
+description: 'YouTube Premium 土耳其区开通指南'
+author: 'Steve'
+cover:
+    url: 'https://cdn.jsdelivr.net/gh/zxfccmm/image@master/20210714/1.7348utkpo3k0.png'
+    square: 'https://cdn.jsdelivr.net/gh/zxfccmm/image@master/20210714/1.7348utkpo3k0.png'
+    alt: 'cover'
+tags: ["Steve 分享", "Youtube Premium"] 
+theme: 'light'
+featured: true
 ---
+
 
 
 ## YouTube
@@ -89,13 +63,13 @@ wymusic:
 
 > 汇率基于2021/1/12的实时汇率，仅供参考
 
-# YouTube Premium 印度区付款指南
+# YouTube Premium 土耳其区付款指南
 
 ## 1.判定YouTube账号状态
 
 #### - 为什么要判定状态？
 
-为了避免购买咖喱会员后，Google Play 也被锁定在印度，所以要在操作之前锁定自己想要消费的商店区域。这里我们以大家常用的美区为例。
+为了避免购买土耳其会员后，Google Play 也被锁定在土耳其，所以要在操作之前锁定自己想要消费的商店区域。这里我们以大家常用的美区为例。
 
 #### - 如何判断锁区状态？
 
@@ -123,12 +97,7 @@ YouTube Premium 对付款方式要求不严格，国内支持外币的信用卡�
 
 ![33](https://cdn.jsdelivr.net/gh/zxfccmm/image@master/20210714/33.3fhnyvnwr2u0.png)
 
-切换印度节点进行油管会员的购买，购买过程需要填写印度住址，直接在谷歌地图搜索印度地区地址即可，越详细越好。
-**地址参考**：
-地址行1：No. 34, Paschimi Marg,Vasant Vihar
-城市：New Delhi India
-邮编：110057
-州：Delhi
+切换土耳其节点进行油管会员的购买，购买过程需要填写土耳其住址，直接在谷歌地图搜索土耳其地区地址即可，越详细越好。
 
 ## 5.邀请你的朋友或家庭成員加入 YouTube Premium
 
@@ -145,7 +114,7 @@ YouTube Premium家庭版可以邀请最多5位，所以你可以和朋友分摊�
 
 #### 解决办法
 
-先进入「Google付款中心」，切换到「设定」选单，在付款资料内点击「国家/印度」右侧铅笔编辑。
+先进入「Google付款中心」，切换到「设定」选单，在付款资料内点击「国家/土耳其」右侧铅笔编辑。
 
 ![55](https://cdn.jsdelivr.net/gh/zxfccmm/image@master/20210714/55.741tlly6gmo0.png)
 
@@ -153,24 +122,24 @@ YouTube Premium家庭版可以邀请最多5位，所以你可以和朋友分摊�
 
 这时会出现建立新的付款资料，点选「继续」。
 
-国家选择「印度」，之后点「继续」。
+国家选择「土耳其」，之后点「继续」。
 
 名称可以输入自己的英文名字，至于地址可以依照家庭主的地址填写，全部家庭成员都输入一样地址没关系，最后点「提交」即可。
 
-建立好印度的付款资料之后，这时点击一下付款资料切回原来的地区，滑到最底下，点选「关闭付款资料」。
+建立好土耳其的付款资料之后，这时点击一下付款资料切回原来的地区，滑到最底下，点选「关闭付款资料」。
 
-随便选一个关闭付款资料原因后，点「继续」，就会让付款资料调整到印度地区。
+随便选一个关闭付款资料原因后，点「继续」，就会让付款资料调整到土耳其地区。
 
-另外「地址」选单内，也要确认是不是在印度，如果不是还需要自行建立印度地址。
+另外「地址」选单内，也要确认是不是在土耳其，如果不是还需要自行建立土耳其地址。
 
-最后检查一下「付款方式」，如果有绑信用卡建议也将地址改为印度地址，因为 YouTube Premium 会30天自动确认是否都是在同一个国家。
+最后检查一下「付款方式」，如果有绑信用卡建议也将地址改为土耳其地址，因为 YouTube Premium 会30天自动确认是否都是在同一个国家。
 
 如果其它家庭组的相关问题，可以参考https://support.google.com/families
 
 ### Tips：
 
-1. 为确保万无一失，最好在美区消费和开通印度会员时用两张信用卡消费。
+1. 为确保万无一失，最好在美区消费和开通土耳其会员时用两张信用卡消费。
 2. 有时候谷歌商店页面会有延迟，所以多刷新一下，未必是锁区失败。
 3. 建议注册全程通过电脑操作，不要使用iOS 、Android 或平板会导致容易购买失败。
-4. 打开「YouTube Premium」网页，先确认家庭成员价格是否变成129.00卢比起，这才是真正跨区到印度
-5. 对于参与你的家庭组的其他账号，只要账号未锁区，就能加入你的印度家庭组
+4. 打开「YouTube Premium」网页，先确认家庭成员价格是否变成里拉，这才是真正跨区到土耳其
+5. 对于参与你的家庭组的其他账号，只要账号未锁区，就能加入你的土耳其家庭组
