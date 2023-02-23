@@ -16,7 +16,7 @@ featured: false
 
 ## 前言
 
-偶然在推上看到  **Austin aka 驭风** 大佬写的 Astro 博客这个项目,一时间觉得颜值耐打,还有一股熟悉的果味,很不错.想着就自己来搭建一个自己的博客.
+偶然在推上看到  **Austin aka 驭风** @austin2035 大佬写的 Astro 博客这个项目,一时间觉得颜值耐打,还有一股熟悉的果味,很不错.想着就自己来搭建一个自己的博客.
 
 ## 预览
 
@@ -102,8 +102,8 @@ xxx(你的用户名).github.io
 
 ## 使用其他方式部署
 
-可以参考官方的教程十分详细。
-[部署教程](https://docs.astro.build/zh-cn/guides/deploy/)
+可以参考官方的教程十分详细：
+**[部署教程](https://docs.astro.build/zh-cn/guides/deploy/)**
 
 ## 自定义成你的博客
 
