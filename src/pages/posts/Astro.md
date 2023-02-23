@@ -90,7 +90,7 @@ jobs:
 
 当然你也可以设置自己的域名,在 Custom domain 里面 设置自己的域名,别忘了在您的域名DNS CNAME 到 
 
-https://zxfccmm.github.io
+xxx(你的用户名).github.io
 
 ![CNAME](https://cdn.staticaly.com/gh/zxfccmm/image@master/20230223/5.2sgaxz8owu20.webp)
 
@@ -146,7 +146,7 @@ https://zxfccmm.github.io
 
 ### 自定义博客
 
-路径为``zxfccmm/zxfccmm.github.io/tree/main/src)/pages/``
+路径为``zxfccmm/zxfccmm.github.io/tree/main/src/pages/``
 
 **archive.astro** 我们可以修改文章的标签
 
