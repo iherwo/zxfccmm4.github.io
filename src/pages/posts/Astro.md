@@ -3,7 +3,7 @@ layout: '../../layouts/MarkdownPost.astro'
 title: '搭建一个有果味的静态博客-Astro'
 pubDate: 2023-02-23
 description: '搭建一个有果味的静态博客-Astro'
-author: 'Apple Newsroom'
+author: 'Steve'
 cover:
     url: 'https://cdn.staticaly.com/gh/zxfccmm/image@master/20230223/7.6zducpj8j5w0.webp'
     square: 'https://cdn.staticaly.com/gh/zxfccmm/image@master/20230223/7.6zducpj8j5w0.webp'
