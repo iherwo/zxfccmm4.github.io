@@ -1,19 +1,3 @@
----
-layout: '../../layouts/MarkdownPost.astro'
-title: '搭建一个有果味的静态博客-Astro'
-pubDate: 2023-02-23
-description: '搭建一个有果味的静态博客-Astro'
-author: 'Apple Newsroom'
-cover:
-    url: 'https://camo.githubusercontent.com/4451a8e685af1e53e1ca506a951cd9cec5f77f672703d8aac16863e1e2731be0/68747470733a2f2f636f732e6c6f6f6b636f732e636e2f626c6f672f7374617469632f696d616765732f707265766965772f707265766965775f6461726b2e706e673f'
-    square: 'https://camo.githubusercontent.com/4451a8e685af1e53e1ca506a951cd9cec5f77f672703d8aac16863e1e2731be0/68747470733a2f2f636f732e6c6f6f6b636f732e636e2f626c6f672f7374617469632f696d616765732f707265766965772f707265766965775f6461726b2e706e673f'
-    alt: 'cover'
-tags: ["Steve 分享", "Blog", "Astro"]
-theme: 'dark'
-featured: false
-
----
-
 ## 前言
 
 偶然在推上看到  **Austin aka 驭风** 大佬写的 Astro 博客这个项目,一时间觉得颜值耐打,还有一股熟悉的果味,很不错.想着就自己来搭建一个自己的博客.
@@ -89,6 +73,10 @@ jobs:
 https://zxfccmm.github.io
 
 ![CNAME](https://cdn.staticaly.com/gh/zxfccmm/image@master/20230223/5.2sgaxz8owu20.webp)
+
+还需要在下图位置添加 CNAME 文件
+
+![CNAME](https://cdn.staticaly.com/gh/zxfccmm/image@master/20230223/CNAME.1fiago55cjr4.webp)
 
 5.接着我们便可以得到以下的博客主页,他已经是可用的状态了.
 
