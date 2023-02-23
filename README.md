@@ -2,6 +2,10 @@
 
 偶然在推上看到  **Austin aka 驭风** 大佬写的 Astro 博客这个项目,一时间觉得颜值耐打,还有一股熟悉的果味,很不错.想着就自己来搭建一个自己的博客.
 
+## 预览
+
+Steve : [https://blog.Steveee.me](https://blog.Steveee.me)
+
 ## 开始搭建
 
 1.先去大佬的 github 上 Fork 一下该项目.  项目地址: https://github.com/austin2035/astro-air-blog
