@@ -74,6 +74,10 @@ https://zxfccmm.github.io
 
 ![CNAME](https://cdn.staticaly.com/gh/zxfccmm/image@master/20230223/5.2sgaxz8owu20.webp)
 
+还需要在下图位置添加 CNAME 文件
+
+![CNAME](https://cdn.staticaly.com/gh/zxfccmm/image@master/20230223/CNAME.1fiago55cjr4.webp)
+
 5.接着我们便可以得到以下的博客主页,他已经是可用的状态了.
 
 ## 自定义成你的博客
