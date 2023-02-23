@@ -9,7 +9,7 @@ cover:
     square: 'https://cdn.staticaly.com/gh/zxfccmm/image@master/20230223/7.6zducpj8j5w0.webp'
     alt: 'cover'
 tags: ["Steve 分享", "Blog", "Astro"]
-theme: 'light'
+theme: 'dark'
 featured: false
 
 ---
