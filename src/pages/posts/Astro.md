@@ -1,6 +1,26 @@
+---
+layout: '../../layouts/MarkdownPost.astro'
+title: '搭建一个有果味的静态博客-Astro'
+pubDate: 2023-02-23
+description: '搭建一个有果味的静态博客-Astro'
+author: 'Apple Newsroom'
+cover:
+    url: 'https://cdn.staticaly.com/gh/zxfccmm/image@master/20230223/7.6zducpj8j5w0.webp'
+    square: 'https://cdn.staticaly.com/gh/zxfccmm/image@master/20230223/7.6zducpj8j5w0.webp'
+    alt: 'cover'
+tags: ["Steve 分享", "Blog", "Astro"]
+theme: 'light'
+featured: false
+
+---
+
 ## 前言
 
 偶然在推上看到  **Austin aka 驭风** 大佬写的 Astro 博客这个项目,一时间觉得颜值耐打,还有一股熟悉的果味,很不错.想着就自己来搭建一个自己的博客.
+
+## 预览
+
+Steve : [https://blog.Steveee.me](https://blog.Steveee.me)
 
 ## 开始搭建
 
