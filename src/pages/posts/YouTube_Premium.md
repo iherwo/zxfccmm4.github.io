@@ -21,7 +21,7 @@ featured: true
 - 下载视频以供离线观看：将视频和播放列表保存到移动设备上，以便在离线时播放
 - 后台播放：在使用其他应用或屏幕关闭时，也能继续播放视频
 
-![1](https://cdn.jsdelivr.net/gh/zxfccmm/image@master/20210714/1.7348utkpo3k0.png)
+![](https://cdn.jsdelivr.net/gh/zxfccmm/image@master/20210714/1.7348utkpo3k0.png)
 
 ## YouTube Music
 
@@ -31,13 +31,13 @@ featured: true
 - 后台播放：在使用其他应用或屏幕关闭时，继续播放音乐[YouTube Kids](https://www.youtube.com/yt/kids/)
 - 在 YouTube Kids 应用中观看视频时不受广告干扰，还可畅享离线播放功能
 
-![3](https://cdn.jsdelivr.net/gh/zxfccmm/image@master/20210714/3.42uqtxxheq80.png)
+![](https://cdn.jsdelivr.net/gh/zxfccmm/image@master/20210714/3.42uqtxxheq80.png)
 
 ## [YouTube Kids](https://www.youtube.com/yt/kids/)
 
 - 在 YouTube Kids 应用中观看视频时不受广告干扰，还可畅享离线播放功能
 
-![2](https://cdn.jsdelivr.net/gh/zxfccmm/image@master/20210714/2.5cvi0utoy6g0.png)
+![](https://cdn.jsdelivr.net/gh/zxfccmm/image@master/20210714/2.5cvi0utoy6g0.png)
 
 # 视频和音乐下载功能的工作原理是怎样的？
 
@@ -77,7 +77,7 @@ featured: true
 
 你可以切换两个不同地区的节点，进入Google Play，在网页最下方会有地区显示。如果地区跟随节点变动，即账号没有锁区，即可进行第二步。
 
-![11](https://cdn.jsdelivr.net/gh/zxfccmm/image@master/20210714/11.2nbdyyybyss0.png)
+![](https://cdn.jsdelivr.net/gh/zxfccmm/image@master/20210714/11.2nbdyyybyss0.png)
 
 ## 2.切换节点
 
@@ -85,7 +85,7 @@ featured: true
 
 > 为确保万无一失，最好在美区消费和开通印度会员时用两张信用卡消费。
 
-![22](https://cdn.jsdelivr.net/gh/zxfccmm/image@master/20210714/22.5kld6fuqcg80.png)
+![](https://cdn.jsdelivr.net/gh/zxfccmm/image@master/20210714/22.5kld6fuqcg80.png)
 
 ## 3.判断锁区是否成功
 
@@ -95,7 +95,7 @@ featured: true
 
 YouTube Premium 对付款方式要求不严格，国内支持外币的信用卡基本都是 OK 的，比如 Master、Visa 等等，第一个月还能免费使用。
 
-![33](https://cdn.jsdelivr.net/gh/zxfccmm/image@master/20210714/33.3fhnyvnwr2u0.png)
+![](https://cdn.jsdelivr.net/gh/zxfccmm/image@master/20210714/33.3fhnyvnwr2u0.png)
 
 切换土耳其节点进行油管会员的购买，购买过程需要填写土耳其住址，直接在谷歌地图搜索土耳其地区地址即可，越详细越好。
 
@@ -103,7 +103,7 @@ YouTube Premium 对付款方式要求不严格，国内支持外币的信用卡�
 
 YouTube Premium家庭版可以邀请最多5位，所以你可以和朋友分摊会员成本。
 
-![44](https://cdn.jsdelivr.net/gh/zxfccmm/image@master/20210714/44.1sbhu7oy2k00.png)
+![](https://cdn.jsdelivr.net/gh/zxfccmm/image@master/20210714/44.1sbhu7oy2k00.png)
 
 需要注意的是，每个被邀请的账户资料都需要年满13岁，并且没有锁区。
 满足上述条件就可以通过Gmail邮箱邀请账户了，网页和APP上均可操作。
@@ -116,7 +116,7 @@ YouTube Premium家庭版可以邀请最多5位，所以你可以和朋友分摊�
 
 先进入「Google付款中心」，切换到「设定」选单，在付款资料内点击「国家/土耳其」右侧铅笔编辑。
 
-![55](https://cdn.jsdelivr.net/gh/zxfccmm/image@master/20210714/55.741tlly6gmo0.png)
+![](https://cdn.jsdelivr.net/gh/zxfccmm/image@master/20210714/55.741tlly6gmo0.png)
 
 点选「建立新的资料」。
 
