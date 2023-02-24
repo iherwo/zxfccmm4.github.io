@@ -26,7 +26,7 @@ Anhui Hongcun, a famous ancient village located at the foot of Mount Huangshan, 
 
 The ancient streets are lined with quaint homes, and the lanterns and red facades hanging at the entrance are particularly striking. When you walk into the village, a fresh scent comes to your nose and a light fragrance fills the air, making you feel extra comfortable.
 
-![](https://cdn.staticaly.com/gh/zxfccmm/image@master/20230224/IMG_5751.75gxbigebio0.webp)
+![](https://cdn.staticaly.com/gh/zxfccmm/image@master/20230224/IMG_2261.6t9kulfokw80.webp)
 
 ![](https://cdn.staticaly.com/gh/zxfccmm/image@master/20230224/IMG_2328.7fg7y11afts0.webp)
 
